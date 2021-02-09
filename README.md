@@ -29,5 +29,5 @@
 Что бы было легче крепить элементы ног винтами М3, отверстия предварительно прошел метчиком ***М3х0,5***
 
 Процесс сборки можно посмотреть по ссылке на ютуб:
-[![Сборка робота](https://www.youtube.com/watch?v=9El1E4NTEyo&list=PLPlEq5SS8JN62263Q4-hY7qEeuCIrCNkc)]
+[![Сборка робота]](https://www.youtube.com/watch?v=9El1E4NTEyo&list=PLPlEq5SS8JN62263Q4-hY7qEeuCIrCNkc)
 
