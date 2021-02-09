@@ -30,5 +30,5 @@
 
 Процесс сборки можно посмотреть по ссылке на ютуб:
 
-[![Сборка робота](https://avatars.mds.yandex.net/get-zen_doc/2359038/pub_5fad3c494278375e7ef5dc70_5fad45be3cce092eaac3f394/scale_600](https://www.youtube.com/watch?v=9El1E4NTEyo&list=PLPlEq5SS8JN62263Q4-hY7qEeuCIrCNkc)
+[![Сборка робота](https://avatars.mds.yandex.net/get-zen_doc/2359038/pub_5fad3c494278375e7ef5dc70_5fad45be3cce092eaac3f394/scale_600)](https://www.youtube.com/watch?v=9El1E4NTEyo&list=PLPlEq5SS8JN62263Q4-hY7qEeuCIrCNkc)
 
