@@ -43,6 +43,7 @@
 
 [![Сборка робота](https://i9.ytimg.com/vi_webp/9El1E4NTEyo/mqdefault.webp?time=1612863600000&sqp=CPCwiYEG&rs=AOn4CLAuiYpM0T9OyyUcIexfj37YVyLTfg)](https://www.youtube.com/watch?v=9El1E4NTEyo&list=PLPlEq5SS8JN62263Q4-hY7qEeuCIrCNkc)
 
+
 ## Настройка перпендикулярности расположения сервоприводов
 
 Настройка заключается в закреплении рычагов-качалок на сервоприводах, валы которых зафиксированы в положении 90 градусов.
@@ -62,7 +63,9 @@
 
 Процесс настройки робота можно посмотреть на **YouTUBE** :
 
+
 [![Сборка робота](https://i9.ytimg.com/vi/AI0i8CaHVo8/mq2.jpg?sqp=CKTBiYEG&rs=AOn4CLAH-7QCzsSzRICPPAro3QAhZWz9Dw)](https://www.youtube.com/watch?v=AI0i8CaHVo8&list=PLPlEq5SS8JN62263Q4-hY7qEeuCIrCNkc&index=2)
+
 
 ## Код настроечного скетча
 
