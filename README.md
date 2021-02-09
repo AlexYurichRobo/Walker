@@ -49,6 +49,6 @@
 |Верхний|D8|D10|
 |Нижний|D7|D9|
 
-Процесс настройки робота можно посмотреть ниже:
+Процесс настройки робота можно посмотреть на **YouTUBE** :
 
 [![Сборка робота](https://i9.ytimg.com/vi/AI0i8CaHVo8/mq2.jpg?sqp=CKTBiYEG&rs=AOn4CLAH-7QCzsSzRICPPAro3QAhZWz9Dw)](https://www.youtube.com/watch?v=AI0i8CaHVo8&list=PLPlEq5SS8JN62263Q4-hY7qEeuCIrCNkc&index=2)
