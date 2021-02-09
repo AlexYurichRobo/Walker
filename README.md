@@ -11,7 +11,7 @@
 
 ![Alt+текст](https://avatars.mds.yandex.net/get-zen_doc/3384412/pub_5fad3c494278375e7ef5dc70_5fad462fc3975f5b3d26d954/scale_600)
 
-№№Содержание
+## Содержание
 
 0. [Предисловие](#Предисловие)
 1. [Перечень элементов для сборки](#Перечень-элементов-для-сборки)
@@ -41,7 +41,7 @@
 
 Процесс сборки можно посмотреть по ссылке на YouTube:
 
-[![Сборка робота](https://i9.ytimg.com/vi_webp/9El1E4NTEyo/mqdefault.webp?time=1612863600000&sqp=CPCwiYEG&rs=AOn4CLAuiYpM0T9OyyUcIexfj37YVyLTfg)](https://www.youtube.com/watch?v=9El1E4NTEyo&list=PLPlEq5SS8JN62263Q4-hY7qEeuCIrCNkc)
+[![Сборка робота](https://avatars.mds.yandex.net/get-zen_doc/1245197/pub_5fad3c494278375e7ef5dc70_5fad3d784278375e7ef82a10/scale_600)](https://www.youtube.com/watch?v=9El1E4NTEyo&list=PLPlEq5SS8JN62263Q4-hY7qEeuCIrCNkc)
 
 
 ## Настройка перпендикулярности расположения сервоприводов
@@ -64,7 +64,7 @@
 Процесс настройки робота можно посмотреть на **YouTUBE** :
 
 
-[![Сборка робота](https://i9.ytimg.com/vi/AI0i8CaHVo8/mq2.jpg?sqp=CKTBiYEG&rs=AOn4CLAH-7QCzsSzRICPPAro3QAhZWz9Dw)](https://www.youtube.com/watch?v=AI0i8CaHVo8&list=PLPlEq5SS8JN62263Q4-hY7qEeuCIrCNkc&index=2)
+[![Сборка робота](https://avatars.mds.yandex.net/get-zen_doc/2359038/pub_5fad3c494278375e7ef5dc70_5fad45be3cce092eaac3f394/scale_600)](https://www.youtube.com/watch?v=AI0i8CaHVo8&list=PLPlEq5SS8JN62263Q4-hY7qEeuCIrCNkc&index=2)
 
 
 ## Код настроечного скетча
