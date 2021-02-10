@@ -77,3 +77,6 @@
 
 
 Репозиторий с актуальной прошивкой робота в [этом репозитории](https://github.com/AlexYurichRobo/WalkerGen1)
+
+Файлдля печати избушки:
+https://vk.com/doc147001836_594385668?hash=becb02b2f8aa7de6ee&dl=027531aeca5bf875ee
